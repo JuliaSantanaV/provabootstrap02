@@ -1,0 +1,32 @@
+body {
+      background-color: #f5f5f5;
+    }
+
+    .card {
+      border-radius: 20px;
+    }
+
+    .logo {
+      display: block;
+      margin: 0 auto 20px auto;
+      width: 100px;
+    }
+
+    .btn-enviar {
+      background-color: #000000;  
+      color: hsl(0, 0%, 100%);
+      border: none; 
+      transition: 0.3s;
+      
+    }
+
+    .btn-enviar:hover {
+      background-color: #000000; 
+      color: #ffffff; 
+    }
+
+    .form-label {
+      font-weight: 500;
+    }
+
+    
